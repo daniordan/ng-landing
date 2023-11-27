@@ -1,5 +1,7 @@
 # LandingPage Angular App
 
+Project that is featuring a landing page. It's still in development.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Prerequisites
